@@ -48,3 +48,5 @@ Prüft u. a.:
 - `src/prokaryont/api/server.py` — FastAPI REST- & WebSocket-Server
 - `frontend/` — React + TypeScript + Vite Bio-Tech Dark Observatory UI
 - `docs/ARCHITEKTUR_HANDBUCH.md` — Ausführliches Handbuch mit Mermaid-Diagrammen, 57er-Matrix und Paradigmenwechsel-Essay
+- `organisches_unternehmen.md` — Detail-Erklärung des simulierten Organismus mit 50 Illustrationen (`docs/illustrations/`)
+- `KONSTRUKTIONSANLEITUNG.md` — Abstrahierte 5-Schichten-Konstruktionsanleitung für reale, business-native organische Unternehmen
