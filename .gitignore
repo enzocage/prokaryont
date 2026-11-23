@@ -21,3 +21,6 @@ frontend/dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated large binary export (reproducible via scripts/build_google_doc.py)
+docs/organisches_unternehmen_google_doc.docx
